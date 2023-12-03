@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First post",
+      "datetime": "July 25, 2021 11:47:39 AM",
+      "body": "Most people do not know why we use semiconductors in dealing with electrons. It is simple.They are like children. You let a bunch of kids play in a room. They make a mess. They jump on the furniture."
+    },
+    {
+      "id": 2,
+      "title": "Second post",
+      "datetime": "July 25, 2021 11:47:39 AM",
+      "body": "Most people do not know why we use semiconductors in dealing with electrons. It is simple.They are like children. You let a bunch of kids play in a room. They make a mess. They jump on the furniture."
+    },
+    {
+      "id": 3,
+      "title": "Third post",
+      "datetime": "July 25, 2021 11:47:39 AM",
+      "body": "Most people do not know why we use semiconductors in dealing with electrons. It is simple.They are like children. You let a bunch of kids play in a room. They make a mess. They jump on the furniture."
+    },
+    {
+      "id": 4,
+      "title": "New post",
+      "datetime": "December 03, 2023 8:39:55 PM",
+      "body": "Most people do not know why we use semiconductors in dealing with electrons. It is simple.They are like children. You let a bunch of kids play in a room."
+    }
+  ]
+}
